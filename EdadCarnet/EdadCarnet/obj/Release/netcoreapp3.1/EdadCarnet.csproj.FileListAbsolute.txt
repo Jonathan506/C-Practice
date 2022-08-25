@@ -1,0 +1,13 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Release\netcoreapp3.1\EdadCarnet.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Release\netcoreapp3.1\EdadCarnet.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Release\netcoreapp3.1\EdadCarnet.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Release\netcoreapp3.1\EdadCarnet.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Release\netcoreapp3.1\EdadCarnet.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Release\netcoreapp3.1\EdadCarnet.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Release\netcoreapp3.1\EdadCarnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Release\netcoreapp3.1\EdadCarnet.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Release\netcoreapp3.1\EdadCarnet.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Release\netcoreapp3.1\EdadCarnet.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Release\netcoreapp3.1\EdadCarnet.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Release\netcoreapp3.1\EdadCarnet.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Release\netcoreapp3.1\EdadCarnet.genruntimeconfig.cache

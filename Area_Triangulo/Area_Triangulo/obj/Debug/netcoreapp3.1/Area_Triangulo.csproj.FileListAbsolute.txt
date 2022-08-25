@@ -1,0 +1,28 @@
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.exe
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.deps.json
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.runtimeconfig.json
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.runtimeconfig.dev.json
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.dll
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.pdb
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.csproj.AssemblyReference.cache
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.dll
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.pdb
+C:\Users\Jonathan\source\repos\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\bin\Debug\netcoreapp3.1\Area_Triangulo.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Area_Triangulo\Area_Triangulo\obj\Debug\netcoreapp3.1\Area_Triangulo.genruntimeconfig.cache

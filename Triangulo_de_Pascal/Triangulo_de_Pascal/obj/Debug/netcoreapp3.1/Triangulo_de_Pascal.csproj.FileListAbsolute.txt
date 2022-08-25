@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\bin\Debug\netcoreapp3.1\Triangulo_de_Pascal.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\bin\Debug\netcoreapp3.1\Triangulo_de_Pascal.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\bin\Debug\netcoreapp3.1\Triangulo_de_Pascal.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\bin\Debug\netcoreapp3.1\Triangulo_de_Pascal.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\bin\Debug\netcoreapp3.1\Triangulo_de_Pascal.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\bin\Debug\netcoreapp3.1\Triangulo_de_Pascal.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\obj\Debug\netcoreapp3.1\Triangulo_de_Pascal.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\obj\Debug\netcoreapp3.1\Triangulo_de_Pascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\obj\Debug\netcoreapp3.1\Triangulo_de_Pascal.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\obj\Debug\netcoreapp3.1\Triangulo_de_Pascal.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\obj\Debug\netcoreapp3.1\Triangulo_de_Pascal.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\obj\Debug\netcoreapp3.1\Triangulo_de_Pascal.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\obj\Debug\netcoreapp3.1\Triangulo_de_Pascal.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Triangulo_de_Pascal\Triangulo_de_Pascal\obj\Debug\netcoreapp3.1\Triangulo_de_Pascal.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\netcoreapp3.1\PropiedadesAcceso.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\netcoreapp3.1\PropiedadesAcceso.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\netcoreapp3.1\PropiedadesAcceso.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\netcoreapp3.1\PropiedadesAcceso.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\netcoreapp3.1\PropiedadesAcceso.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\netcoreapp3.1\PropiedadesAcceso.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\netcoreapp3.1\PropiedadesAcceso.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\netcoreapp3.1\PropiedadesAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\netcoreapp3.1\PropiedadesAcceso.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\netcoreapp3.1\PropiedadesAcceso.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\netcoreapp3.1\PropiedadesAcceso.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\netcoreapp3.1\PropiedadesAcceso.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\netcoreapp3.1\PropiedadesAcceso.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\netcoreapp3.1\PropiedadesAcceso.genruntimeconfig.cache

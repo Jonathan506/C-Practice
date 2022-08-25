@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.genruntimeconfig.cache

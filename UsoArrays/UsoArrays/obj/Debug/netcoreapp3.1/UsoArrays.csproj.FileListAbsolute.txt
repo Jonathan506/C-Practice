@@ -1,0 +1,28 @@
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.exe
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.deps.json
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.runtimeconfig.json
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.runtimeconfig.dev.json
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.dll
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.pdb
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.dll
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.pdb
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.genruntimeconfig.cache
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.csproj.AssemblyReference.cache
+C:\Users\Jonathan\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.genruntimeconfig.cache

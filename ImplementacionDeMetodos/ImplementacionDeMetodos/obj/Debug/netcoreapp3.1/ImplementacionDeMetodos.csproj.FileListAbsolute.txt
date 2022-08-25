@@ -1,0 +1,27 @@
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.exe
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.deps.json
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.runtimeconfig.json
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.runtimeconfig.dev.json
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.dll
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.pdb
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.csprojAssemblyReference.cache
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.AssemblyInfoInputs.cache
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.AssemblyInfo.cs
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.dll
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.pdb
+D:\Documentos\C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\bin\Debug\netcoreapp3.1\ImplementacionDeMetodos.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ImplementacionDeMetodos\ImplementacionDeMetodos\obj\Debug\netcoreapp3.1\ImplementacionDeMetodos.csproj.AssemblyReference.cache

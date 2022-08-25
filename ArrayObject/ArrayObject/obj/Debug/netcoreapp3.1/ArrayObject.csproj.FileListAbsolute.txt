@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.genruntimeconfig.cache

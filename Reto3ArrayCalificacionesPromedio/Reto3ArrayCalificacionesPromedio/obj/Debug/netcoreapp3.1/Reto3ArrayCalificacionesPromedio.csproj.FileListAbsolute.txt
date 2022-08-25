@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\bin\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\bin\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\bin\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\bin\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\bin\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\bin\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\obj\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\obj\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\obj\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\obj\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\obj\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\obj\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\obj\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto3ArrayCalificacionesPromedio\Reto3ArrayCalificacionesPromedio\obj\Debug\netcoreapp3.1\Reto3ArrayCalificacionesPromedio.genruntimeconfig.cache

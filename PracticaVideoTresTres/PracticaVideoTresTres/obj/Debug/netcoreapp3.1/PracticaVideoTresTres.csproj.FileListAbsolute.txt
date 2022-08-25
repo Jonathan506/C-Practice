@@ -1,0 +1,28 @@
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.exe
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.deps.json
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.runtimeconfig.json
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.runtimeconfig.dev.json
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.dll
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.pdb
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.dll
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.pdb
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.genruntimeconfig.cache
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.csproj.AssemblyReference.cache
+C:\Users\Jonathan\source\repos\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\bin\Debug\netcoreapp3.1\PracticaVideoTresTres.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\PracticaVideoTresTres\PracticaVideoTresTres\obj\Debug\netcoreapp3.1\PracticaVideoTresTres.genruntimeconfig.cache

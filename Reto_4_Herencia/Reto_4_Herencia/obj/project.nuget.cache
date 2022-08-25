@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LzRx2MlBocMK4m/0uSFS7/gPKwyVWY9nExxDE703lPazBpquoeJxqA52Nmc8AqwWyM9phVLKk7ybv4UNN+Lxlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Ejercicios C#\\Reto_4_Herencia\\Reto_4_Herencia\\Reto_4_Herencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

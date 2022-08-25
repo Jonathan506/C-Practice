@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bbppGrBau5zjH2Sx60x+2i783Hf5hxQusVWflVHAUiVCqENqGcoo83AtuE74gLEy+XEs1QhRzk0fy0t4ohG7vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Ejercicios C#\\EdadCarnet\\EdadCarnet\\EdadCarnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

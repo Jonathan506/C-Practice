@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\bin\Debug\netcoreapp3.1\Structs y Enum.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\bin\Debug\netcoreapp3.1\Structs y Enum.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\bin\Debug\netcoreapp3.1\Structs y Enum.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\bin\Debug\netcoreapp3.1\Structs y Enum.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\bin\Debug\netcoreapp3.1\Structs y Enum.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\bin\Debug\netcoreapp3.1\Structs y Enum.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\obj\Debug\netcoreapp3.1\Structs y Enum.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\obj\Debug\netcoreapp3.1\Structs y Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\obj\Debug\netcoreapp3.1\Structs y Enum.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\obj\Debug\netcoreapp3.1\Structs y Enum.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\obj\Debug\netcoreapp3.1\Structs y Enum.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\obj\Debug\netcoreapp3.1\Structs y Enum.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\obj\Debug\netcoreapp3.1\Structs y Enum.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Structs y Enum\Structs y Enum\obj\Debug\netcoreapp3.1\Structs y Enum.genruntimeconfig.cache

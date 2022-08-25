@@ -1,0 +1,27 @@
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.exe
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.deps.json
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.runtimeconfig.json
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.runtimeconfig.dev.json
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.dll
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.pdb
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.dll
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.pdb
+C:\Users\Jonathan\source\repos\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\bin\Debug\netcoreapp3.1\ArrayFinal.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\ArrayFinal\ArrayFinal\obj\Debug\netcoreapp3.1\ArrayFinal.genruntimeconfig.cache

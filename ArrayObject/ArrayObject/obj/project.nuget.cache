@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rGOCJpwjV9tZgqxZ0ihwvGy9w/374807kDsRax3TVGISmCoWbbLBaH17mC8FNxgGw7tAkYPAmgsfvtXmwK+hGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Ejercicios C#\\ArrayObject\\ArrayObject\\ArrayObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

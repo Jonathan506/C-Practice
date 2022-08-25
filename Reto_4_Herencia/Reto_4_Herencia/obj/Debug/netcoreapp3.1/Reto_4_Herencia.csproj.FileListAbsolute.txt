@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\bin\Debug\netcoreapp3.1\Reto_4_Herencia.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\bin\Debug\netcoreapp3.1\Reto_4_Herencia.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\bin\Debug\netcoreapp3.1\Reto_4_Herencia.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\bin\Debug\netcoreapp3.1\Reto_4_Herencia.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\bin\Debug\netcoreapp3.1\Reto_4_Herencia.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\bin\Debug\netcoreapp3.1\Reto_4_Herencia.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\obj\Debug\netcoreapp3.1\Reto_4_Herencia.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\obj\Debug\netcoreapp3.1\Reto_4_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\obj\Debug\netcoreapp3.1\Reto_4_Herencia.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\obj\Debug\netcoreapp3.1\Reto_4_Herencia.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\obj\Debug\netcoreapp3.1\Reto_4_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\obj\Debug\netcoreapp3.1\Reto_4_Herencia.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\obj\Debug\netcoreapp3.1\Reto_4_Herencia.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto_4_Herencia\Reto_4_Herencia\obj\Debug\netcoreapp3.1\Reto_4_Herencia.genruntimeconfig.cache

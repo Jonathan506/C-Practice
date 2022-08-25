@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UdMRfIcFOVMtZdXuPlNj59edvmxCF3nti/8lDgfAbaCh9TGL1G1p5QlM3rSzmjvHu+tL8bRRgm2w+FXPd8SKew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Ejercicios C#\\Genericos Restricciones\\Genericos Restricciones\\Genericos Restricciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

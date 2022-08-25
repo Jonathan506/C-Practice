@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp3.1\TablasMultiplicar.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp3.1\TablasMultiplicar.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp3.1\TablasMultiplicar.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp3.1\TablasMultiplicar.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp3.1\TablasMultiplicar.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp3.1\TablasMultiplicar.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp3.1\TablasMultiplicar.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp3.1\TablasMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp3.1\TablasMultiplicar.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp3.1\TablasMultiplicar.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp3.1\TablasMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp3.1\TablasMultiplicar.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp3.1\TablasMultiplicar.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp3.1\TablasMultiplicar.genruntimeconfig.cache

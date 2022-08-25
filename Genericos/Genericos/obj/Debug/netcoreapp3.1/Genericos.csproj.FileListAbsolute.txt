@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\bin\Debug\netcoreapp3.1\Genericos.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\bin\Debug\netcoreapp3.1\Genericos.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\bin\Debug\netcoreapp3.1\Genericos.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\bin\Debug\netcoreapp3.1\Genericos.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\bin\Debug\netcoreapp3.1\Genericos.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\bin\Debug\netcoreapp3.1\Genericos.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\obj\Debug\netcoreapp3.1\Genericos.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\obj\Debug\netcoreapp3.1\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\obj\Debug\netcoreapp3.1\Genericos.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\obj\Debug\netcoreapp3.1\Genericos.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\obj\Debug\netcoreapp3.1\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\obj\Debug\netcoreapp3.1\Genericos.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\obj\Debug\netcoreapp3.1\Genericos.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos\Genericos\obj\Debug\netcoreapp3.1\Genericos.genruntimeconfig.cache

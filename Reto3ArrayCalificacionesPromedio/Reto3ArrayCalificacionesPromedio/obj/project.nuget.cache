@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2AD+GO+IGlYSFIdVTI3E0MPdgxKN0pjHZDGemS94phCVP3lk5K1hUhoSxigtgYfwLazLfoRDF6IVJjhG2Mj2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Ejercicios C#\\Reto3ArrayCalificacionesPromedio\\Reto3ArrayCalificacionesPromedio\\Reto3ArrayCalificacionesPromedio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

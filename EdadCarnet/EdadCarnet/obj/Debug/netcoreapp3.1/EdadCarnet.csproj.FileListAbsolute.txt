@@ -1,0 +1,40 @@
+D:\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.exe
+D:\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.deps.json
+D:\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.runtimeconfig.json
+D:\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.runtimeconfig.dev.json
+D:\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.dll
+D:\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.pdb
+D:\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.csprojAssemblyReference.cache
+D:\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.AssemblyInfoInputs.cache
+D:\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.AssemblyInfo.cs
+D:\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.dll
+D:\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.pdb
+D:\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.genruntimeconfig.cache
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.exe
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.deps.json
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.runtimeconfig.json
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.runtimeconfig.dev.json
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.dll
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.pdb
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.csprojAssemblyReference.cache
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.AssemblyInfoInputs.cache
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.AssemblyInfo.cs
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.csproj.CoreCompileInputs.cache
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.dll
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.pdb
+D:\Data fail\Documentos\C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\bin\Debug\netcoreapp3.1\EdadCarnet.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\EdadCarnet\EdadCarnet\obj\Debug\netcoreapp3.1\EdadCarnet.genruntimeconfig.cache

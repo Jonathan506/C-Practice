@@ -1,0 +1,28 @@
+C:\Users\Jonathan\source\repos\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.csproj.AssemblyReference.cache
+C:\Users\Jonathan\source\repos\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\source\repos\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.exe
+C:\Users\Jonathan\source\repos\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.deps.json
+C:\Users\Jonathan\source\repos\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.runtimeconfig.json
+C:\Users\Jonathan\source\repos\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.runtimeconfig.dev.json
+C:\Users\Jonathan\source\repos\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.dll
+C:\Users\Jonathan\source\repos\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.pdb
+C:\Users\Jonathan\source\repos\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.dll
+C:\Users\Jonathan\source\repos\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.pdb
+C:\Users\Jonathan\source\repos\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\bin\Debug\netcoreapp3.1\Reto2.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Reto2\Reto2\obj\Debug\netcoreapp3.1\Reto2.genruntimeconfig.cache

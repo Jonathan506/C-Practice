@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UytMlgjH8k6qZL+67mhsF44m1xeAibGnPKbf6tCvVIy3FE+PonblKc4eydpJbGrVxhvE71vBkkMEHhe/P69RTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Ejercicios C#\\Collections_Dictionary\\Collections_Dictionary\\Collections_Dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

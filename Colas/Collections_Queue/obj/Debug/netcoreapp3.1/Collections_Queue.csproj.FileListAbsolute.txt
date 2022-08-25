@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Colas\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.genruntimeconfig.cache

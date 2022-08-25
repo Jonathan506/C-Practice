@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\bin\Debug\netcoreapp3.1\MenuCalculos.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\bin\Debug\netcoreapp3.1\MenuCalculos.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\bin\Debug\netcoreapp3.1\MenuCalculos.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\bin\Debug\netcoreapp3.1\MenuCalculos.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\bin\Debug\netcoreapp3.1\MenuCalculos.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\bin\Debug\netcoreapp3.1\MenuCalculos.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\obj\Debug\netcoreapp3.1\MenuCalculos.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\obj\Debug\netcoreapp3.1\MenuCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\obj\Debug\netcoreapp3.1\MenuCalculos.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\obj\Debug\netcoreapp3.1\MenuCalculos.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\obj\Debug\netcoreapp3.1\MenuCalculos.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\obj\Debug\netcoreapp3.1\MenuCalculos.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\obj\Debug\netcoreapp3.1\MenuCalculos.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\MenuCalculos\MenuCalculos\obj\Debug\netcoreapp3.1\MenuCalculos.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Propiedades\Propiedades\bin\Debug\Propiedades.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Propiedades\Propiedades\bin\Debug\Propiedades.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Propiedades\Propiedades\obj\x86\Debug\Propiedades.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Propiedades\Propiedades\obj\x86\Debug\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Propiedades\Propiedades\obj\x86\Debug\Propiedades.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Propiedades\Propiedades\obj\x86\Debug\Propiedades.pdb

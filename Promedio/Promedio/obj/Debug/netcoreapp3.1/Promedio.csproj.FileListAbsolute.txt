@@ -1,0 +1,28 @@
+C:\Users\Jonathan\source\repos\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.exe
+C:\Users\Jonathan\source\repos\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.deps.json
+C:\Users\Jonathan\source\repos\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.runtimeconfig.json
+C:\Users\Jonathan\source\repos\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.runtimeconfig.dev.json
+C:\Users\Jonathan\source\repos\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.dll
+C:\Users\Jonathan\source\repos\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.pdb
+C:\Users\Jonathan\source\repos\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.dll
+C:\Users\Jonathan\source\repos\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.pdb
+C:\Users\Jonathan\source\repos\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.genruntimeconfig.cache
+C:\Users\Jonathan\source\repos\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.csproj.AssemblyReference.cache
+C:\Users\Jonathan\source\repos\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\bin\Debug\netcoreapp3.1\Promedio.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Promedio\Promedio\obj\Debug\netcoreapp3.1\Promedio.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.genruntimeconfig.cache
