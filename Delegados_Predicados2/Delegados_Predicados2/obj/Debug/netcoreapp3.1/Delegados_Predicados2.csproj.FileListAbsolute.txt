@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\bin\Debug\netcoreapp3.1\Delegados_Predicados2.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\bin\Debug\netcoreapp3.1\Delegados_Predicados2.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\bin\Debug\netcoreapp3.1\Delegados_Predicados2.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\bin\Debug\netcoreapp3.1\Delegados_Predicados2.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\bin\Debug\netcoreapp3.1\Delegados_Predicados2.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\bin\Debug\netcoreapp3.1\Delegados_Predicados2.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\obj\Debug\netcoreapp3.1\Delegados_Predicados2.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\obj\Debug\netcoreapp3.1\Delegados_Predicados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\obj\Debug\netcoreapp3.1\Delegados_Predicados2.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\obj\Debug\netcoreapp3.1\Delegados_Predicados2.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\obj\Debug\netcoreapp3.1\Delegados_Predicados2.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\obj\Debug\netcoreapp3.1\Delegados_Predicados2.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\obj\Debug\netcoreapp3.1\Delegados_Predicados2.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados2\Delegados_Predicados2\obj\Debug\netcoreapp3.1\Delegados_Predicados2.genruntimeconfig.cache

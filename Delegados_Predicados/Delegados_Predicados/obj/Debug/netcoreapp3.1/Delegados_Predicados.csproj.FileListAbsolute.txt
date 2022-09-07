@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\bin\Debug\netcoreapp3.1\Delegados_Predicados.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\bin\Debug\netcoreapp3.1\Delegados_Predicados.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\bin\Debug\netcoreapp3.1\Delegados_Predicados.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\bin\Debug\netcoreapp3.1\Delegados_Predicados.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\bin\Debug\netcoreapp3.1\Delegados_Predicados.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\bin\Debug\netcoreapp3.1\Delegados_Predicados.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\obj\Debug\netcoreapp3.1\Delegados_Predicados.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\obj\Debug\netcoreapp3.1\Delegados_Predicados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\obj\Debug\netcoreapp3.1\Delegados_Predicados.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\obj\Debug\netcoreapp3.1\Delegados_Predicados.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\obj\Debug\netcoreapp3.1\Delegados_Predicados.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\obj\Debug\netcoreapp3.1\Delegados_Predicados.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\obj\Debug\netcoreapp3.1\Delegados_Predicados.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados_Predicados\Delegados_Predicados\obj\Debug\netcoreapp3.1\Delegados_Predicados.genruntimeconfig.cache

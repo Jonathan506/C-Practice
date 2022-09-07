@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HWZKeMKz0xzXICVX0iTasRsS2zNvW8WAiRK3xpHrXKpIaHLsl2RwDS3Nl1oMGZWHeocj1cQC9kuOoe0yBUzLQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Ejercicios C#\\Delegados_Predicados2\\Delegados_Predicados2\\Delegados_Predicados2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
