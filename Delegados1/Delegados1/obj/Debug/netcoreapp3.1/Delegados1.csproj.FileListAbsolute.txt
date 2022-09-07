@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\bin\Debug\netcoreapp3.1\Delegados1.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\bin\Debug\netcoreapp3.1\Delegados1.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\bin\Debug\netcoreapp3.1\Delegados1.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\bin\Debug\netcoreapp3.1\Delegados1.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\bin\Debug\netcoreapp3.1\Delegados1.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\bin\Debug\netcoreapp3.1\Delegados1.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\obj\Debug\netcoreapp3.1\Delegados1.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\obj\Debug\netcoreapp3.1\Delegados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\obj\Debug\netcoreapp3.1\Delegados1.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\obj\Debug\netcoreapp3.1\Delegados1.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\obj\Debug\netcoreapp3.1\Delegados1.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\obj\Debug\netcoreapp3.1\Delegados1.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\obj\Debug\netcoreapp3.1\Delegados1.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Delegados1\Delegados1\obj\Debug\netcoreapp3.1\Delegados1.genruntimeconfig.cache
