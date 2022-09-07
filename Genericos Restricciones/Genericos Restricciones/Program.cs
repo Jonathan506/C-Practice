@@ -24,8 +24,8 @@ namespace Genericos_Restricciones
             /*A continuación se intenta crear un objeto de una clase que no hereda la interface de Isalario*/
 
 
-            AlmacenEmpleados<clsEstudiante> estudiante = new AlmacenEmpleados<clsEstudiante>(1);
-            estudiante.agregar(new clsEstudiante(300000));
+            //AlmacenEmpleados<clsEstudiante> estudiante = new AlmacenEmpleados<clsEstudiante>(1);
+            //estudiante.agregar(new clsEstudiante(300000));
 
             /*Marca error porque la clase clsEstudiante no hereda la Interface Isalario*/
         }

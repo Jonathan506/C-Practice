@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\obj\Debug\netcoreapp3.1\Genericos Restricciones.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\obj\Debug\netcoreapp3.1\Genericos Restricciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\obj\Debug\netcoreapp3.1\Genericos Restricciones.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\obj\Debug\netcoreapp3.1\Genericos Restricciones.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\obj\Debug\netcoreapp3.1\Genericos Restricciones.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\bin\Debug\netcoreapp3.1\Genericos Restricciones.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\bin\Debug\netcoreapp3.1\Genericos Restricciones.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\bin\Debug\netcoreapp3.1\Genericos Restricciones.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\bin\Debug\netcoreapp3.1\Genericos Restricciones.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\bin\Debug\netcoreapp3.1\Genericos Restricciones.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\bin\Debug\netcoreapp3.1\Genericos Restricciones.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\obj\Debug\netcoreapp3.1\Genericos Restricciones.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\obj\Debug\netcoreapp3.1\Genericos Restricciones.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Genericos Restricciones\Genericos Restricciones\obj\Debug\netcoreapp3.1\Genericos Restricciones.genruntimeconfig.cache
