@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\bin\Debug\netcoreapp3.1\Lamdas.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\bin\Debug\netcoreapp3.1\Lamdas.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\bin\Debug\netcoreapp3.1\Lamdas.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\bin\Debug\netcoreapp3.1\Lamdas.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\bin\Debug\netcoreapp3.1\Lamdas.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\bin\Debug\netcoreapp3.1\Lamdas.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\obj\Debug\netcoreapp3.1\Lamdas.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\obj\Debug\netcoreapp3.1\Lamdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\obj\Debug\netcoreapp3.1\Lamdas.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\obj\Debug\netcoreapp3.1\Lamdas.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\obj\Debug\netcoreapp3.1\Lamdas.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\obj\Debug\netcoreapp3.1\Lamdas.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\obj\Debug\netcoreapp3.1\Lamdas.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Lamdas\Lamdas\obj\Debug\netcoreapp3.1\Lamdas.genruntimeconfig.cache

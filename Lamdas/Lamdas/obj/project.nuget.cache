@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVfkMN6c5DrcTRdyKkXOTlDzXE6wslCptmn18pnIKNOr7IfpY6PzIvzpc5PPYOhb8sT25MdOsGFeA+xFEWLJlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Ejercicios C#\\Lamdas\\Lamdas\\Lamdas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
