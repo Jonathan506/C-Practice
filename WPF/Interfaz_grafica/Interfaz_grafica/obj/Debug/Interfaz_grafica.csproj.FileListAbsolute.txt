@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\Interfaz_grafica.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\App.g.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\Interfaz_grafica_MarkupCompile.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\bin\Debug\Interfaz_grafica.exe.config
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\bin\Debug\Interfaz_grafica.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\bin\Debug\Interfaz_grafica.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\Interfaz_grafica_MarkupCompile.lref
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\Interfaz_grafica.g.resources
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\Interfaz_grafica.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\Interfaz_grafica.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\Interfaz_grafica.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\Interfaz_grafica.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Interfaz_grafica\Interfaz_grafica\obj\Debug\Interfaz_grafica.pdb
