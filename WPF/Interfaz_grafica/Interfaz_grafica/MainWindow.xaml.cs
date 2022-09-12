@@ -37,6 +37,9 @@ namespace Interfaz_grafica
             TextBlock txt2 = new TextBlock();
             TextBlock txt3 = new TextBlock();
 
+            txt1.Background = Brushes.White;
+            txt3.Foreground = Brushes.White;
+
             txt1.Text = "Submit";
             txt2.Text = "Enviar";
             txt3.Text = "Entrar";
@@ -49,6 +52,8 @@ namespace Interfaz_grafica
 
             miBoton.Width = 200;
             miBoton.Height = 100;
+            miBoton.Background = Brushes.Red;
+            miBoton.FontSize= 15;
 
             //txt1.Foreground.Freeze;
         }
