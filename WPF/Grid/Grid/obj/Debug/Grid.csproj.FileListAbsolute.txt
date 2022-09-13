@@ -12,3 +12,4 @@ C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Grid\Grid\obj\Debug\Grid.csproj.Gene
 C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Grid\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
 C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Grid\Grid\obj\Debug\Grid.exe
 C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Grid\Grid\obj\Debug\Grid.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\Grid\Grid\obj\Debug\Grid.csproj.AssemblyReference.cache

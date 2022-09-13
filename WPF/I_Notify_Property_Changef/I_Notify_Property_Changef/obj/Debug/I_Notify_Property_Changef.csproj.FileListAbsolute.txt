@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\bin\Debug\I_Notify_Property_Changef.exe.config
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\bin\Debug\I_Notify_Property_Changef.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\bin\Debug\I_Notify_Property_Changef.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\I_Notify_Property_Changef.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\App.g.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\I_Notify_Property_Changef_MarkupCompile.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\I_Notify_Property_Changef_MarkupCompile.lref
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\I_Notify_Property_Changef.g.resources
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\I_Notify_Property_Changef.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\I_Notify_Property_Changef.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\I_Notify_Property_Changef.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\I_Notify_Property_Changef.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\WPF\I_Notify_Property_Changef\I_Notify_Property_Changef\obj\Debug\I_Notify_Property_Changef.pdb
