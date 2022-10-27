@@ -12,7 +12,7 @@ namespace Agenda
 
         public int NumContactos
         {
-            get
+            get  /*Propiedad solo para lectura*/
             {
                 return _index;
             }
@@ -33,9 +33,8 @@ namespace Agenda
             }
             else
             {
-                Console.WriteLine("Agenda Llena");
+                Console.WriteLine("No hay espacio suficiente en la agenda");
             }
-
         }
 
         public void BorrarUltimoContacto()
@@ -67,11 +66,12 @@ namespace Agenda
             if (NoHayContactos()) { return; }
 
             clsContacto[] ordenados = new clsContacto[_index];
+
+            //Métodos de la clase array
             Array.Copy(_contactos, ordenados, _index);
-            Array.Sort(ordenados);
+            Array.Sort(ordenados); //Este metodo ordena el arreglo
 
             Console.WriteLine(Cadenacontactos(ordenados)); //ordenados
-            Console.WriteLine(Cadenacontactos(ordenados));
         }
 
         public void MostrarContactosDesc()
@@ -79,6 +79,7 @@ namespace Agenda
             if (NoHayContactos()) { return; }
 
             clsContacto[] ordenados = new clsContacto[_index];
+
             Array.Copy(_contactos, ordenados, _index);
             Array.Sort(ordenados);
             Array.Reverse(ordenados);
@@ -94,9 +95,7 @@ namespace Agenda
                 {
                     return contacto;
                 }
-
             }
-
             return null;
         }
 

@@ -13,8 +13,8 @@ namespace Agenda
 
         public clsContacto()
         {
-
         }
+
         public clsContacto(string nombre, string telefono, string email)
         {
             this.Nombre = nombre;
@@ -41,10 +41,16 @@ namespace Agenda
 
         public override int GetHashCode()
         {
-            int hashNombre = (Nombre != null ? Nombre.GetHashCode() : 0);
-            int hashTelefono = (Telefono != null ? Telefono.GetHashCode() : 0);
-            return (hashNombre * 397) ^ (hashTelefono);
+            unchecked 
+            {
+                int hashNombre = (Nombre != null ? Nombre.GetHashCode() : 0);
+                int hashTelefono = (Telefono != null ? Telefono.GetHashCode() : 0);
+                return (hashNombre * 397) ^ (hashTelefono);
+            }
         }
+
+        //Los metodos Equals y GetHascode fueron utilizados para saber si las variables Nombre y telefono son nulas
+        //o para compararlas (Puden servir en otros casos, son como una receta)
 
         public override string ToString()
         {

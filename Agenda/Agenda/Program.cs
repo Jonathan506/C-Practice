@@ -1,61 +1,62 @@
 ﻿using System;
+using System.Text;
 
 namespace Agenda
 {
     class Program
     {
+        static clsControlAgenda control = new clsControlAgenda( new clsAgenda());
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Agenda de Contactos");
-            Console.WriteLine();
-
-            Console.WriteLine("1. Ver Contactos");
-            Console.WriteLine("2. Agregar Nuevo Contacto");
-            Console.WriteLine("3. Borrar Último Contacto");
-            Console.WriteLine("4. Buscar Contacto");
-            Console.WriteLine("5. Salir");
-
-            int opc=0;
-            bool op = true;
-
-            try
-            {
-                opc = Convert.ToInt32(Console.ReadLine());
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex);
-                Console.WriteLine("Opción No Registrada try");
-            }
-
+            string opcion = "";
             do
             {
-                switch (opc)
+                Console.Clear();
+                Console.WriteLine("Agenda");
+                ImprimeMenu();
+                opcion = Console.ReadLine();
+
+                switch (opcion)
                 {
-                    case 1:
+                    case "1":
+                        control.VerContactos();
                         break;
-
-                    case 2:
+                    case "2":
+                        control.AgregarContacto();
                         break;
-
-                    case 3:
+                    case "3":
+                        control.BorrarUltimoContacto();
                         break;
-
-                    case 4:
+                    case "4":
+                        control.BuscarPorNombre();
                         break;
-
-                    case 5:
-                        Console.WriteLine("Saliendo de la Agenda");
+                    case "5":
+                        control.AcercaDe();
                         break;
-
+                    case "6":
+                        Console.WriteLine("6 Para salir");
+                        break;
                     default:
-                        Console.WriteLine("Opción No Registrada");
+                        Console.WriteLine("Opción Invalida");
                         break;
-                }
-            } while (opc > 1 && opc >=5 );
+                } 
+            } while (opcion != "6");
+        }
 
-            Console.WriteLine();
-            Console.WriteLine("Sistema Finalizado");
+        static void ImprimeMenu() 
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("1 Ver Contactos");
+            sb.AppendLine("2 Agregar Contactos");
+            sb.AppendLine("3 Borrar último Contacto");
+            sb.AppendLine("4 Buscar por Nombre");
+            sb.AppendLine("5 Acerca de");
+            sb.AppendLine("6 Salir");
+
+            sb.Append("Seleccione una opción");
+
+            Console.WriteLine(sb.ToString());
         }
     }
 }
