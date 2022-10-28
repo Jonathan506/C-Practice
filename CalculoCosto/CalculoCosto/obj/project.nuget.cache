@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j9iDTcShTRvaLTqp0SAwH/MsMveoq1FLxd6VjC2ze1PlOlNkcQS1FSlEqlZRbGN2vGQMqGh2eYJGOT9vKV/HaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Ejercicios C#\\CalculoCosto\\CalculoCosto\\CalculoCosto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

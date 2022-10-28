@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\bin\Debug\netcoreapp3.1\CalculoCosto.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\bin\Debug\netcoreapp3.1\CalculoCosto.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\bin\Debug\netcoreapp3.1\CalculoCosto.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\bin\Debug\netcoreapp3.1\CalculoCosto.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\bin\Debug\netcoreapp3.1\CalculoCosto.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\bin\Debug\netcoreapp3.1\CalculoCosto.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\obj\Debug\netcoreapp3.1\CalculoCosto.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\obj\Debug\netcoreapp3.1\CalculoCosto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\obj\Debug\netcoreapp3.1\CalculoCosto.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\obj\Debug\netcoreapp3.1\CalculoCosto.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\obj\Debug\netcoreapp3.1\CalculoCosto.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\obj\Debug\netcoreapp3.1\CalculoCosto.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\obj\Debug\netcoreapp3.1\CalculoCosto.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\CalculoCosto\CalculoCosto\obj\Debug\netcoreapp3.1\CalculoCosto.genruntimeconfig.cache
