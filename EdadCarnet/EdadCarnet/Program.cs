@@ -42,7 +42,7 @@ namespace EdadCarnet
             }
             finally
             {
-                Console.WriteLine("Presiona cualquier tecla para volver a comenzar");
+                Console.WriteLine("Presiona cualquier tecla para volver a continuar");
                 Console.ReadKey();
                 Console.Clear();            
             }
