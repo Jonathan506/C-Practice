@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 
 namespace Promedio
 {
@@ -28,22 +28,16 @@ namespace Promedio
                 Console.WriteLine();
                 nota3 = Int32.Parse(Console.ReadLine());
 
-                if (nota1 > 5 && nota2 > 5 && nota3 > 5)
+                int promedio = (nota1 + nota2 + nota3) / 3;
+
+                if (promedio < 65)
                 {
-                    int promedio = (nota1 + nota2 + nota3) / 3;
-                    Console.WriteLine(" Felicidades su promedio es de {0}", promedio);
+                    Console.WriteLine(" Aplazado, promedio insuficiente ");
                     Console.WriteLine();
                 }
                 else
                 {
-                    if (nota1 <= 5 && nota2 <= 5 && nota3 <= 5) Console.WriteLine("Usted se encuentra completamente aplazado");
-
-                    else if (nota1 <= 5) Console.WriteLine("  Usted está aplazado, la nota del primer parcial es insuficiente ");
-
-                    else if (nota2 <= 5) Console.WriteLine(" Usted está aplazado, la nota del segudo parcial es insuficiente ");
-
-                    else Console.WriteLine(" Usted está aplazado, la nota del tercer parcial es insuficiente ");
-
+                    Console.WriteLine(" Felicidades, su promedio es de: {0} ", promedio);
                 }
             }
             catch (Exception ex)

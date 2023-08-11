@@ -1,0 +1,16 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\bin\Debug\netcoreapp3.1\Operaciones_InterfaceG.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\bin\Debug\netcoreapp3.1\Operaciones_InterfaceG.deps.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\bin\Debug\netcoreapp3.1\Operaciones_InterfaceG.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\bin\Debug\netcoreapp3.1\Operaciones_InterfaceG.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\bin\Debug\netcoreapp3.1\Operaciones_InterfaceG.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\bin\Debug\netcoreapp3.1\Operaciones_InterfaceG.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\obj\Debug\netcoreapp3.1\Operaciones_InterfaceG.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\obj\Debug\netcoreapp3.1\Operaciones_InterfaceG.Form1.resources
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\obj\Debug\netcoreapp3.1\Operaciones_InterfaceG.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\obj\Debug\netcoreapp3.1\Operaciones_InterfaceG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\obj\Debug\netcoreapp3.1\Operaciones_InterfaceG.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\obj\Debug\netcoreapp3.1\Operaciones_InterfaceG.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\obj\Debug\netcoreapp3.1\Operaciones_InterfaceG.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\obj\Debug\netcoreapp3.1\Operaciones_InterfaceG.dll
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\obj\Debug\netcoreapp3.1\Operaciones_InterfaceG.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Operaciones_InterfaceG\Operaciones_InterfaceG\obj\Debug\netcoreapp3.1\Operaciones_InterfaceG.genruntimeconfig.cache
